@@ -5,7 +5,7 @@ Create a Java program that calculates the sum and
 average of two integers and displays the results.
  * 
  */
-package com.JavaPrimitiveDatatypes;
+package com.Calculate_Sum_Average;
 
 import java.util.Scanner;
 

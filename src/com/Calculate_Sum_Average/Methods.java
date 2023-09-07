@@ -1,4 +1,4 @@
-package com.JavaPrimitiveDatatypes;
+package com.Calculate_Sum_Average;
 
 public class Methods {
  public  static int sum(int num1, int num2) {
